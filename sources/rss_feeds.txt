@@ -1,0 +1,6 @@
+# Flux RSS — actu IA / tech / ESN
+# Un flux par ligne
+
+https://actu.ia/feed
+https://www.journaldunet.com/rss/
+https://www.lemagit.fr/rss/actualites.xml

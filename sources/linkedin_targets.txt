@@ -1,0 +1,6 @@
+# Profils LinkedIn concurrents à surveiller
+# Format : URL | type (concurrent / influenceur)
+
+# Exemples à remplacer :
+# https://linkedin.com/in/concurrent-agence-ia | concurrent
+# https://linkedin.com/company/esn-digitale-fr | concurrent

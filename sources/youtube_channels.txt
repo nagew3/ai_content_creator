@@ -1,0 +1,6 @@
+# Chaînes YouTube à surveiller
+# Format : URL | type (concurrent / prospect_content)
+
+# Exemples à remplacer :
+# https://youtube.com/@exemple-agence-ia-fr | concurrent
+# https://youtube.com/@veille-esn-dirigeants | prospect_content

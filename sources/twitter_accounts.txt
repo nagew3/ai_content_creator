@@ -1,0 +1,12 @@
+# Comptes Twitter/X à surveiller
+# Format : @handle | type (concurrent / prospect / influenceur_niche)
+
+# Exemples à remplacer :
+# @agence_ia_concurrent | concurrent
+# @gerant_esn_influent | prospect
+
+# Mots-clés à surveiller (tweets FR uniquement) :
+keyword:ESN automatisation
+keyword:gérant débordé mail
+keyword:intercontrat IA
+keyword:PME informatique

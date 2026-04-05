@@ -1,0 +1,9 @@
+# Notes perso — idées à traiter en priorité
+# Ce fichier a la priorité absolue sur toutes les autres sources
+# Ajouter une ligne par idée, avec la date
+
+# Format suggéré :
+# [YYYY-MM-DD] Idée : [description] | Angle : [angle souhaité]
+
+# Exemple :
+# [2026-04-04] Idée : gérant qui copie-colle ses données CRM depuis 3 ans | Angle : coût-inaction

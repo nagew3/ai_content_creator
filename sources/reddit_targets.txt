@@ -1,0 +1,12 @@
+# Subreddits et mots-clés Reddit
+
+r/france
+r/entrepreneurs
+r/informatique
+r/freelance
+
+keyword:ESN automatisation
+keyword:infogérance mail
+keyword:IA PME france
+keyword:tâches répétitives dirigeant
+
