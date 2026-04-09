@@ -89,6 +89,16 @@ Donner vos données à l'IA américaine est une bombe à retardement. Bâtir la 
 
 ## Posts flopés (à analyser et éviter)
 
+## Post flopé · 2026-04-08 · douleur-mail
+**KPIs** : 190 impressions · 1 jour
+**Hook** : "2h par jour sur les mails. Faut bien le faire. Ou pas."
+**Analyse** : Hook trop mou — "Ou pas." en fin de hook est une tension trop implicite, elle n'interpelle pas vraiment. Le post s'adresse à un niveau 1-2 (TOFU pur) alors que Sébastien est niveau 3 par défaut : il connaît déjà le problème, il n'a pas besoin qu'on le lui nomme. Pas d'ennemi commun, pas de chiffre de pair (9/9 gérants), pas de différenciation. Le storytelling est générique et ne crée pas de surprise ni de révélation en milieu de post. Le CTA demande un commentaire sur leur propre temps — question trop introspective pour générer de l'engagement.
+**À retenir** :
+- Ne pas écrire TOFU pur quand l'audience est niveau 3 — manque de relief
+- Le hook doit contenir un chiffre terrain OU une citation de pair OU un ennemi commun — pas juste une formule verbatim
+- Utiliser "9 gérants ESN sur 9" plutôt que "2h par jour" — la preuve sociale est plus forte que le chiffre brut
+- CTA : préférer une question binaire ou un mot-clé à une question ouverte trop abstraite
+
 ## Post flopé · ~janvier 2026 · solitude-dirigeant
 **KPIs** : 1 266 impressions · 1 réaction · 0 commentaires
 **Hook** : 11 appels. 0 euro de chiffre d'affaires. Et pourtant, c'est ma plus belle victoire de la semaine.
