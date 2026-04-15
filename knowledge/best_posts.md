@@ -87,6 +87,18 @@ Donner vos données à l'IA américaine est une bombe à retardement. Bâtir la 
 
 ---
 
+## Post · 2026-04-13 · contre-idée + urgence-marché · Hook 9/10
+**KPIs** : ~500 impressions · intérêt niche confirmé
+**Hook** : "80% des entreprises n'ont obtenu aucun gain de productivité avec l'IA. Malgré des milliards investis. Ce n'est pas l'IA qui est en cause."
+**Ce qui a marché** : Chiffre autorité (PwC 4 454 PDGs) + paradoxe de Solow comme référence experte + contre-idée qui valide la frustration du lecteur. CTA ouvert ("dites-moi ce que vous avez essayé") a généré de l'engagement niche.
+**Structure** : Hook court (stat autorité + contre-idée) · Storytelling 4 lignes (contexte dirigeants) · Valeur liste flèches 3 points (ce qui différencie les 20%) · CTA TOFU question ouverte
+**Patterns réutilisables** :
+- Stat autorité (étude > 1 000 répondants) + "Ce n'est pas X qui est en cause" → désamorce le sceptique
+- Paradoxe historique (Solow 1987) = crédibilité intellectuelle sans jargon
+- CTA "dites-moi ce que vous avez essayé" = génère des commentaires terrain réutilisables
+
+---
+
 ## Posts flopés (à analyser et éviter)
 
 ## Post flopé · 2026-04-08 · douleur-mail
