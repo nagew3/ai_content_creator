@@ -87,7 +87,17 @@ Donner vos données à l'IA américaine est une bombe à retardement. Bâtir la 
 
 ---
 
-## Posts performants (suite)
+## Post · 2026-04-13 · contre-idée + urgence-marché · Hook 9/10
+**KPIs** : ~500 impressions · intérêt niche confirmé
+**Hook** : "80% des entreprises n'ont obtenu aucun gain de productivité avec l'IA. Malgré des milliards investis. Ce n'est pas l'IA qui est en cause."
+**Ce qui a marché** : Chiffre autorité (PwC 4 454 PDGs) + paradoxe de Solow comme référence experte + contre-idée qui valide la frustration du lecteur. CTA ouvert ("dites-moi ce que vous avez essayé") a généré de l'engagement niche.
+**Structure** : Hook court (stat autorité + contre-idée) · Storytelling 4 lignes (contexte dirigeants) · Valeur liste flèches 3 points (ce qui différencie les 20%) · CTA TOFU question ouverte
+**Patterns réutilisables** :
+- Stat autorité (étude > 1 000 répondants) + "Ce n'est pas X qui est en cause" → désamorce le sceptique
+- Paradoxe historique (Solow 1987) = crédibilité intellectuelle sans jargon
+- CTA "dites-moi ce que vous avez essayé" = génère des commentaires terrain réutilisables
+
+---
 
 ## Post · 2026-04-08 VARIANTE · douleur-mail (réécrit) · Hook 9/10
 **KPIs** : (à remplir après publication)
@@ -108,6 +118,12 @@ Les ESN exécutantes qui attendent de bouger sur l'IA meurent à petit feu. Pas 
 ---
 
 ## Posts flopés (à analyser et éviter)
+
+## Post flopé · 2026-04-16 · build in public (veille n8n)
+**KPIs** : ~0 impressions
+**Hook** : "Chaque matin à 7h00, mon téléphone vibre. C'est mon brief IA. Celui que j'ai construit moi-même."
+**Analyse** : Post centré sur le fondateur ("voici ce que j'ai fait") — l'audience ne se reconnaît pas, elle regarde l'histoire de quelqu'un d'autre. Même pattern que le post solitude-dirigeant flopé de janvier 2026. Le "build in public" fonctionne uniquement si la leçon finale est immédiatement actionnable pour le lecteur ET si le hook parle d'abord de SA douleur, pas de la démarche du fondateur.
+**À retenir** : Ne jamais commencer un post par "j'ai construit quelque chose". Toujours partir de la douleur du lecteur. Le fondateur est le guide, pas le héros.
 
 ## Post flopé · 2026-04-08 · douleur-mail
 **KPIs** : 190 impressions · 1 jour
