@@ -101,6 +101,12 @@ Donner vos données à l'IA américaine est une bombe à retardement. Bâtir la 
 
 ## Posts flopés (à analyser et éviter)
 
+## Post flopé · 2026-04-16 · build in public (veille n8n)
+**KPIs** : ~0 impressions
+**Hook** : "Chaque matin à 7h00, mon téléphone vibre. C'est mon brief IA. Celui que j'ai construit moi-même."
+**Analyse** : Post centré sur le fondateur ("voici ce que j'ai fait") — l'audience ne se reconnaît pas, elle regarde l'histoire de quelqu'un d'autre. Même pattern que le post solitude-dirigeant flopé de janvier 2026. Le "build in public" fonctionne uniquement si la leçon finale est immédiatement actionnable pour le lecteur ET si le hook parle d'abord de SA douleur, pas de la démarche du fondateur.
+**À retenir** : Ne jamais commencer un post par "j'ai construit quelque chose". Toujours partir de la douleur du lecteur. Le fondateur est le guide, pas le héros.
+
 ## Post flopé · 2026-04-08 · douleur-mail
 **KPIs** : 190 impressions · 1 jour
 **Hook** : "2h par jour sur les mails. Faut bien le faire. Ou pas."
