@@ -88,7 +88,7 @@ Donner vos données à l'IA américaine est une bombe à retardement. Bâtir la 
 ---
 
 ## Post · 2026-04-13 · contre-idée + urgence-marché · Hook 9/10
-**KPIs** : ~500 impressions · intérêt niche confirmé
+**KPIs** : 549 impressions · 10 réactions · 2 commentaires · 0 republication
 **Hook** : "80% des entreprises n'ont obtenu aucun gain de productivité avec l'IA. Malgré des milliards investis. Ce n'est pas l'IA qui est en cause."
 **Ce qui a marché** : Chiffre autorité (PwC 4 454 PDGs) + paradoxe de Solow comme référence experte + contre-idée qui valide la frustration du lecteur. CTA ouvert ("dites-moi ce que vous avez essayé") a généré de l'engagement niche.
 **Structure** : Hook court (stat autorité + contre-idée) · Storytelling 4 lignes (contexte dirigeants) · Valeur liste flèches 3 points (ce qui différencie les 20%) · CTA TOFU question ouverte
@@ -100,7 +100,7 @@ Donner vos données à l'IA américaine est une bombe à retardement. Bâtir la 
 ---
 
 ## Post · 2026-04-08 VARIANTE · douleur-mail (réécrit) · Hook 9/10
-**KPIs** : (à remplir après publication)
+**KPIs** : 218 impressions · 6 réactions · 0 commentaire · 0 republication
 **Hook** : Les ESN exécutantes qui attendent de bouger sur l'IA meurent à petit feu. Pas demain. Cette année.
 **Ce qui a marché** : Ennemi commun clairement nommé (concurrentes qui bougent) + urgence marché ("cette année" vs "faut bien le faire") + chiffrage du ROI (250h = 50k€) + appel au rêve (redevenir stratège). Blair Warren multi-leviers vs post original (un seul levier faible). CTA directionnel (audit gratuit + DM) vs question générique.
 **Structure** : Hook court (ennemi commun + urgence) · Storytelling 2 lignes (verbatim + contexte) · Valeur chiffrée (ROI en euros) · CTA MOFU (audit gratuit)
@@ -120,13 +120,13 @@ Les ESN exécutantes qui attendent de bouger sur l'IA meurent à petit feu. Pas 
 ## Posts flopés (à analyser et éviter)
 
 ## Post flopé · 2026-04-16 · build in public (veille n8n)
-**KPIs** : ~0 impressions
+**KPIs** : 63 impressions · 0 réaction · 0 commentaire · 0 republication
 **Hook** : "Chaque matin à 7h00, mon téléphone vibre. C'est mon brief IA. Celui que j'ai construit moi-même."
 **Analyse** : Post centré sur le fondateur ("voici ce que j'ai fait") — l'audience ne se reconnaît pas, elle regarde l'histoire de quelqu'un d'autre. Même pattern que le post solitude-dirigeant flopé de janvier 2026. Le "build in public" fonctionne uniquement si la leçon finale est immédiatement actionnable pour le lecteur ET si le hook parle d'abord de SA douleur, pas de la démarche du fondateur.
 **À retenir** : Ne jamais commencer un post par "j'ai construit quelque chose". Toujours partir de la douleur du lecteur. Le fondateur est le guide, pas le héros.
 
 ## Post flopé · 2026-04-08 · douleur-mail
-**KPIs** : 190 impressions · 1 jour
+**KPIs** : 252 impressions · 3 réactions · 0 commentaire · 0 republication
 **Hook** : "2h par jour sur les mails. Faut bien le faire. Ou pas."
 **Analyse** : Hook trop mou — "Ou pas." en fin de hook est une tension trop implicite, elle n'interpelle pas vraiment. Le post s'adresse à un niveau 1-2 (TOFU pur) alors que Sébastien est niveau 3 par défaut : il connaît déjà le problème, il n'a pas besoin qu'on le lui nomme. Pas d'ennemi commun, pas de chiffre de pair (9/9 gérants), pas de différenciation. Le storytelling est générique et ne crée pas de surprise ni de révélation en milieu de post. Le CTA demande un commentaire sur leur propre temps — question trop introspective pour générer de l'engagement.
 **À retenir** :
@@ -140,3 +140,41 @@ Les ESN exécutantes qui attendent de bouger sur l'IA meurent à petit feu. Pas 
 **Hook** : 11 appels. 0 euro de chiffre d'affaires. Et pourtant, c'est ma plus belle victoire de la semaine.
 **Analyse** : Post centré sur la démarche de l'agence (prospection, étude terrain), pas sur la douleur de Sébastien. Le lecteur ESN ne se reconnaît pas — il regarde l'histoire de quelqu'un d'autre. CTA question trop générique ("quel problème régler ?").
 **À retenir** : Ne jamais faire un post dont le sujet principal est "voici ce que j'ai fait". Toujours partir de la douleur du lecteur. L'agence est le guide, pas le héros.
+
+## Post flopé · 2026-04-23 · bénéfice-concret (démo produit)
+**KPIs** : 44 impressions · 1 réaction · 0 commentaire · 0 republication
+**Hook** : "J'ai réussi à répondre à un mail en 22 secondes au lieu de 5 minutes."
+**Analyse** : Post-publicité pur — présente Swift Reply comme un produit commercial sans passer par la douleur du lecteur. L'accroche est un exploit personnel ("J'ai réussi"), pas une tension que Sébastien vit. Aucun verbatim terrain, aucun chiffre de pair ESN. Le CTA "Commente MAIL" ne génère rien car le lecteur n'a pas été connecté émotionnellement au problème avant l'appel à l'action.
+**À retenir** : Ne jamais présenter un outil avant d'avoir ancré la douleur. La fonctionnalité n'intéresse personne — la souffrance qu'elle résout, si. "J'ai répondu en 22 secondes" = exploit du fondateur. "Tu passes 5 minutes sur chaque mail client, tous les jours depuis 3 ans" = douleur de Sébastien. Toujours partir de la seconde formulation.
+
+## Post flopé · 2026-04-22 · urgence-marché (audience hors cible)
+**KPIs** : 346 impressions · 1 réaction · 1 commentaire · 0 republication
+**Hook** : "Les graphistes qui pensent encore être tranquilles avec l'IA viennent de prendre un énorme coup de vieux."
+**Analyse** : Bonne portée (346 imp) mais engagement quasi nul (taux < 0,6%). Le sujet — menace de l'IA pour les graphistes — ne parle pas à Sébastien, gérant ESN/PME IT. Il regarde un problème qui n'est pas le sien. Le CTA "A ou B en commentaire ?" est trop vague pour générer une réaction chez quelqu'un qui se sent peu concerné. La structure narrative est correcte mais la cible est absente.
+**À retenir** : La portée sans engagement = mauvais ciblage. Un post qui touche 346 personnes dont aucune n'est Sébastien vaut moins qu'un post à 80 impressions avec 3 commentaires de gérants ESN. L'algorithme LinkedIn amplifie l'engagement, pas la portée brute — toujours rédiger pour Sébastien, pas pour un sujet tendance.
+
+## Post flopé · 2026-04-21 · urgence-marché (message surexposé)
+**KPIs** : 67 impressions · 1 réaction · 0 commentaire · 0 republication
+**Hook** : "L'IA ne va pas prendre ton travail. Quelqu'un qui utilise l'IA va le faire à ta place."
+**Analyse** : Hook fort conceptuellement mais surexposé — ce message circule massivement sur LinkedIn depuis 2024. Sébastien est niveau 3 : il connaît déjà ce message, il ne va pas s'arrêter dessus. Le post explique un phénomène général sans ancrage ESN ni verbatim terrain. "Commentez IA" est le CTA le plus générique possible. Portée catastrophique (67 imp) = LinkedIn n'a pas distribué car l'engagement initial était nul.
+**À retenir** : Un hook connu = portée morte. Pour l'angle urgence-marché, ancrer sur un fait ESN précis (chiffre Syntec, cas concurrent nommé, statistique du secteur) plutôt qu'une formule générale sur l'IA. Sébastien niveau 3 veut du nouveau — pas la confirmation de ce qu'il sait déjà.
+
+## Post mixte · 2026-04-20 · contre-idée
+**KPIs** : 148 impressions · 4 réactions · 0 commentaire · 0 republication
+**Hook** : "ChatGPT ne vous a pas déçu. Vous ne lui avez pas posé les bonnes questions."
+**Ce qui est bon** : Contenu aligné avec Sébastien niveau 3 (diagnostic de compétence, pas de l'outil). 4 likes pour 148 imp = taux 2,7% (correct). Le diagnostic "pas de problème d'outil, problème de diagnostic" est juste et résonne.
+**Ce qui a flopé** : 0 commentaire avec CTA "commentez PROMPT" = la friction était trop haute. Le CTA mot-clé fonctionne uniquement si la douleur est déjà bien installée. Distribution initiale insuffisante.
+**À retenir** : Post avec le bon angle et le bon niveau de conscience — à retenter avec un hook plus percutant (ajouter un chiffre ou un verbatim de pair) et un CTA binaire ("vous vous êtes retrouvé là-dedans ? Oui ou non") plutôt qu'un mot-clé. Le fond est solide, la distribution initiale a tué la portée.
+
+## Post flopé · 2026-04-17 · bénéfice-concret (hook trop générique)
+**KPIs** : 86 impressions · 3 réactions · 1 commentaire · 0 republication
+**Hook** : "Les managers qui utilisent l'IA récupèrent 7h par semaine."
+**Ce qui est bon** : Vocabulaire de Sébastien bien utilisé dans le corps (human in the loop, hébergé en France, vous validez avant chaque action). Les arguments souveraineté + contrôle sont solides. 1 commentaire = signal que quelqu'un a réagi.
+**Ce qui a flopé** : Hook trop vague ("les managers" = audience floue, pas ESN). "7h par semaine" est un chiffre générique sans source terrain — pas de pair nommé, pas d'ESN citée. Distribution initiale limitée.
+**À retenir** : Remplacer "les managers" par "les gérants ESN" et sourcer le chiffre avec un verbatim terrain ("un gérant ESN Île-de-France que j'accompagne..."). Le corps du post est recyclable — seuls le hook et l'ancrage terrain sont à retravailler.
+
+## Post flopé · 2026-04-10 · sécurité-données (distraction externe)
+**KPIs** : 118 impressions · 0 réaction · 0 commentaire · 0 republication
+**Hook** : "Refuser l'IA pour protéger tes données, ça ne protège rien."
+**Analyse** : Hook anti-objection intéressant, mais le post part en tangente sur Alien Intelligence, une startup externe. Ça déplace l'attention du lecteur vers une tierce entreprise et dilue la crédibilité. Zéro engagement (0 like, 0 commentaire) = le lecteur n'a pas été touché. Le CTA "commente DONNÉES" n'a rien déclenché. Mention d'une levée de fonds externe perçue comme publicité déguisée.
+**À retenir** : Ne jamais faire la promotion d'une startup externe dans un post — ça détourne la crédibilité et l'attention. Pour l'angle sécurité-données, partir du verbatim prospect exact ("pensez-vous vraiment que je vais donner accès à une IA à des mails confidentiels ?") et rester centré sur les bénéfices concrets de l'approche souveraine. La structure anti-objection de ce post est bonne — mais doit rester focalisée sur Sébastien, pas sur un acteur tiers.
