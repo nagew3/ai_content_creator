@@ -259,12 +259,12 @@ def scrape_linkedin_via_apify() -> list[dict]:
 
     try:
         # Lancer l'actor Apify
-        run_url = f"https://api.apify.com/v2/acts/apify~linkedin-post-scraper/runs"
+        run_url = f"https://api.apify.com/v2/acts/johnvc~linkedin-posts-api/runs"
         r = requests.post(
             run_url,
             headers={"Authorization": f"Bearer {apify_token}"},
             json={
-                "startUrls": [{"url": u} for u in profile_urls],
+                "profileUrls": profile_urls,
                 "maxPostsPerProfile": 10,
             },
             timeout=30,
@@ -298,13 +298,16 @@ def scrape_linkedin_via_apify() -> list[dict]:
 
         posts = []
         for item in items_r.json():
+            # Ignorer les lignes d'erreur et d'avis, garder seulement les posts
+            if item.get("result_type") != "post":
+                continue
             posts.append({
                 "source": "linkedin",
                 "profile": item.get("authorUrl", ""),
                 "text": item.get("text", "")[:400],
-                "likes": item.get("likesCount", 0),
-                "comments": item.get("commentsCount", 0),
-                "date": item.get("postedDate", ""),
+                "likes": item.get("numLikes", 0),
+                "comments": item.get("numComments", 0),
+                "date": item.get("datePosted", ""),
             })
 
         log(f"LinkedIn — {len(posts)} posts récupérés")
